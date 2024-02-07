@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> AMAZON LOG IN PAGE</title>
+<body> Login page amazon
+creat your Id here to start shoping with amazon and shop with amazon in a easy way.
+</body>
+</head>
+</html>
